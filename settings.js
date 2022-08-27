@@ -8,52 +8,22 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.APIs = { // API Prefix
-  // name: 'https://website'
-  amel: 'https://melcanz.com',
-    bx: 'https://bx-hunter.herokuapp.com',
-  dhnjing: 'https://dhnjing.xyz',
-  hardianto: 'https://hardianto-chan.herokuapp.com',
-  jonaz: 'https://jonaz-api-v2.herokuapp.com',
-  neoxr: 'https://neoxr-api.herokuapp.com',
-  nrtm: 'https://nurutomo.herokuapp.com',
-  xteam: 'https://api.xteam.xyz',
-  nzcha: 'http://nzcha-apii.herokuapp.com',
-  bg: 'http://bochil.ddns.net',
-  fdci: 'https://api.fdci.se',
-  dzx: 'https://api.dhamzxploit.my.id',
-  bsbt: 'https://bsbt-api-rest.herokuapp.com',
-  zahir: 'https://zahirr-web.herokuapp.com',
-  zeks: 'https://api.zeks.xyz',
-  zekais: 'http://zekais-api.herokuapp.com',
-  hardianto: 'https://hardianto-chan.herokuapp.com',
-  pencarikode: 'https://pencarikode.xyz', 
-  erdwepe: 'https://erdwpe-api.herokuapp.com',
-  lolhuman: 'https://api.lolhuman.xyz',
-  LeysCoder: 'https://leyscoders-api.herokuapp.com',
-  rey: 'https://server-api-rey.herokuapp.com'
+//Api Website\\
+global.APIs = {
+	zenz: 'https://zenzapis.xyz',
 }
-global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
-  'https://melcanz.com': 'elaina',
-  'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://api.xteam.xyz': 'd37372311698ed1d',
-  'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://bsbt-api-rest.herokuapp.com': 'benniismael',
-  'https://api.zeks.xyz': 'apivinz',
-  'https://hardianto-chan.herokuapp.com': 'hardianto',
-  'https://pencarikode.xyz': 'pais', 
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+
+//Api Key\\
+global.APIKeys = {
+	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['6283174295037']
-global.premium = ['6281278841448']
-global.ownernomer = '6283174295037'
-global.ownername = 'HUDHA-XD'
-global.botname = 'BOT'
+global.owner = ['6281278841448']
+global.premium = ['6283174295047']
+global.ownernomer = '083174295037'
+global.ownername = '🐦Star Boy Nexus'
+global.botname = 'Gojo-Satoru'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
