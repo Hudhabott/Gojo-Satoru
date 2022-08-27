@@ -49,11 +49,11 @@ global.APIKeys = { // APIKey Here
 }
 
 //customize settings\\
-global.owner = ['6281278841448']
+global.owner = ['6283174295037']
 global.premium = ['6281278841448']
 global.ownernomer = '6283174295037'
 global.ownername = 'HUDHA-XD'
-global.botname = 'Gojo-Satoru'
+global.botname = 'BOT'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
